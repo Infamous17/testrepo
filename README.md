@@ -1,5 +1,5 @@
 # testrepo
 
-##EDITING A FILE
+EDITING A FILE
 
 Its a MARKDOWN FILE in this repository.
